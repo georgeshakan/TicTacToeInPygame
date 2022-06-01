@@ -10,3 +10,7 @@ python pyg.py
 ```
 
 
+
+
+
+![Image](image/image.png)
